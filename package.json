@@ -5,20 +5,17 @@
   "main": "./lib/reactable.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glittershark/reactable.git"
-  },
-  "bugs": {
-    "url": "https://github.com/glittershark/reactable/issues"
+    "url": "https://github.com/erinmoirgingr/reactable.git"
   },
   "author": "Griffin Smith",
   "license": "MIT",
-  "homepage": "https://github.com/glittershark/reactable",
+  "homepage": "https://github.com/erinmoirgingr/reactable",
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt ci",
     "build": "./node_modules/grunt-cli/bin/grunt build"
   },
   "peerDependencies": {
-    "react": "* || ^0.14.0"
+    "react": "* || ^0.15.0"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
@@ -38,7 +35,7 @@
     "load-grunt-tasks": "^3.2.0",
     "markdownlint": "0.0.7",
     "mocha": "^1.18.2",
-    "react": "^0.14.0"
+    "react": "^0.15.0"
   },
   "keywords": [
     "react-component",
